@@ -1,1 +1,1 @@
-# A*-in-MATLAB
+# A-Star-in-MATLAB
