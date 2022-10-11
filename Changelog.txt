@@ -1,0 +1,6 @@
+Changed MAP Matrix: Obstacle=-1, Space=0, Starting=1, Target=2
+
+Files Changed:
+	A_Star_function: line 33
+	parse_all_data: line 49
+	Make_Circle: line 40, line 51
